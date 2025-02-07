@@ -40,7 +40,7 @@ The addon will scrape all results from all addons, apply your configuration, and
 
 > [!NOTE]
 > Do not install other addons that you have enabled through this addon. You will only cause unnecessary requests to the addon.
-> I also do not recommend installing/enabling too many addons as they all scrape mostly the same sources.
+> I also do not recommend lala installing/enabling too many addons as they all scrape mostly the same sources.
 
 ## FAQ
 
